@@ -26,7 +26,7 @@ Ensure you have the following installed:
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clonehttps://github.com/Chitravansh/Weather_App_Flutter.git
+   git clone https://github.com/Chitravansh/Weather_App_Flutter.git
    ```
 2. Navigate to the project directory:
    ```sh
